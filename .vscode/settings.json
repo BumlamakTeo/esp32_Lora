@@ -1,0 +1,11 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.portWin": "COM51",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "loramaccrypto.h": "c"
+    }
+}
